@@ -17,7 +17,7 @@ return {
   soccer: null,
   football: null,
   ranch: null,
-  shooter: null,
+ 
   pursuit: null,
 
   create() {
