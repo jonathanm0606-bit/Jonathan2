@@ -12,7 +12,7 @@ return {
   completed: false,
   progress: null,
   combat: null,
-  
+  challenge: null,
   basketball: null,
   soccer: null,
   football: null,
