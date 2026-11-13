@@ -73,7 +73,7 @@ registerStudentPack({
   },
   "dialogue": {
     "mission": {
-      "speaker": "Guide",
+      "speaker": "Home Guide",
       "lines": [
         "HELLO! welcome to collo oppio. Recover the gate key and relic, defeat both guards, then reach the gold exit.",
         "Move with WASD/arrows. Tap J to strike where you face.",
