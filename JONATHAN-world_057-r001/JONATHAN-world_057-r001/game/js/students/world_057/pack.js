@@ -75,7 +75,7 @@ registerStudentPack({
     "mission": {
       "speaker": "Home Guide",
       "lines": [
-        "HELLO! welcome to Our Town. Meet with old man jen. Get the key, avoid the gaurds, and escape through the Door.
+        "HELLO! welcome to Our Town. Meet with old man jen. Get the key, avoid the gaurds, and escape through the Door."
         "Move with WASD/arrows. Tap J to strike where you face.",
         "Space jumps; it does not attack.",
         "A strike briefly interrupts a guard. Step back while your attack recharges.",
